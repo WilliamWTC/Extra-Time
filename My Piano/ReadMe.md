@@ -13,4 +13,4 @@ Songs I can play so far include:
 
 I am also constantly learning new tunes and melodies every chance I get.
 
-Special thanks to Kyle from Web Dev Simplified.
+Credit: Kyle [Web Dev Simplified] - https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
