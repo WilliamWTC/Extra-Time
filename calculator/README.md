@@ -8,3 +8,6 @@ To Use:
 - In the searchbar, type in: file:///(file path of the calculator file).
 - for example: file:///Users/username/Downloads/calculator/calculator.html
 - voila, run those numbers! Enjoy :)
+
+
+credit: Kyle [Web Dev Simplified] - https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
