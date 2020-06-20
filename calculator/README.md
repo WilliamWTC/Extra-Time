@@ -1,4 +1,4 @@
-I created a simple calculator (Using Html, Css & JavaScript). It has all the basic math operators.
+I recreated a simple calculator (Using Html, Css & JavaScript). It has all the basic math operators.
 
 
 
