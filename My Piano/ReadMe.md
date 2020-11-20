@@ -18,4 +18,5 @@ I am also constantly learning new tunes and melodies every chance I get.
 
 <img src="https://github.com/WilliamWTC/Extra-Time/blob/master/My%20Piano/Screenshot%202020-11-20%20at%2010.14.35.png" width="100%" title="preview" alt="preview">
 
-Credit: Kyle [Web Dev Simplified] - https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
+# Credit
+[Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
