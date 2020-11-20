@@ -1,9 +1,12 @@
+
+# Calculator
 I recreated a simple calculator (Using Html, Css & JavaScript). It has all the basic math operators.
 
+# Preview 
 
+<img src="https://github.com/WilliamWTC/Extra-Time/blob/master/calculator/Screenshot%202020-11-20%20at%2010.02.09.png" width="100%" title="preview" alt="preview">
 
-To Use:
-
+# Running it:
 - Open Web browser (Preferably Google Chrome).
 - In the searchbar, type in: file:///(file path of the calculator file).
 - for example: file:///Users/username/Downloads/calculator/calculator.html

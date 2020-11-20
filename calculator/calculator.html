@@ -1,58 +1,8 @@
 <html>
     <head>
         <title>My Calculator</title>
-        <script>
-            function insert(num){
-                document.form.textview.value = document.form.textview.value+num;
-            }
-            function equal(){
-                var exp = document.form.textview.value;
-                if (exp){
-                    document.form.textview.value = eval(exp);
-                }
-            }
-            function clean(){
-                document.form.textview.value = "";
-            }
-            function back(){
-                var exp = document.form.textview.value;
-                document.form.textview.value = exp.substring(0,exp.length-1);
-            }
-        </script>
-        <style>
-            *{
-                margin: 0;
-                padding: 0;
-            }
-            .button{
-                width: 50;
-                height: 50;
-                font-size: 25;
-                margin: 2;
-                cursor: pointer;
-                background: #607d8b;
-                border: none;
-                color: white;
-            }
-            .textview{
-                width: 217;
-                margin: 5;
-                font-size: 25;
-                padding: 5;
-                border: none;
-                color: #607d8b;
-            }
-            .main{
-                position: absolute;
-                top: 50%;
-                left: 50%;
-                transform: translateX(-50%) translateY(-50%);
-            }
-            .bg{
-                background: linear-gradient(to right, #e91e63, #3f51b5);
-                height: 100%;
-            }
-        </style>
+        <script src="script.js" defer></script>
+        <link rel="stylesheet" href="styles.css">
     </head>
     <body>
         <div class="bg"></div>
