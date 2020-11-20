@@ -13,5 +13,5 @@ I recreated a simple calculator (Using Html, Css & JavaScript). It has all the b
 - voila, run those numbers! Enjoy :)
 
 
-# credit
+# Credit
 [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
