@@ -14,34 +14,34 @@ const background = document.getElementById("background");
 // Music
 const songs = [
   {
-    path: '',
+    path: 'https://github.com/WilliamWTC/Extra-Time/blob/master/Music%20Player/songs/Love%20someone.mp3?raw=true',
     displayName: 'Love Someone',
     artist: 'Da Capo',
-    cover: "https://images.genius.com/ee202c6f724ffd4cf61bd01a205eeb47.1000x1000x1.jpg",
+    cover: "https://github.com/WilliamWTC/Extra-Time/blob/master/Music%20Player/songs/love.jpg?raw=true",
   },
   {
-    path: '',
+    path: 'https://github.com/WilliamWTC/Extra-Time/blob/master/Music%20Player/songs/Things%20Change.mp3?raw=true',
     displayName: 'Things Change',
     artist: 'Omen ft J.Cole',
-    cover: "https://pbs.twimg.com/media/D2NZH-2U4AAL9Xs.jpg",
+    cover: "https://github.com/WilliamWTC/Extra-Time/blob/master/Music%20Player/songs/change.jpg?raw=true",
   },
   {
-    path: '',
+    path: 'https://github.com/WilliamWTC/Extra-Time/blob/master/Music%20Player/songs/Room%20Service.mp3?raw=true',
     displayName: 'Room Service',
     artist: 'Jenerik Soulz',
-    cover: "https://images.genius.com/c5a58cdaab9f3199214f0e3c26abbd0e.1000x1000x1.jpg",
+    cover: "https://github.com/WilliamWTC/Extra-Time/blob/master/Music%20Player/songs/room.jpg?raw=true",
   },
   {
-    path: '',
+    path: 'https://github.com/WilliamWTC/Extra-Time/blob/master/Music%20Player/songs/Dosline%20Ft.%20Nonto.mp3?raw=true',
     displayName: 'Ngifunana Nawe',
     artist: 'Dosline ft Nonto',
-    cover: "https://www.radyomega.fm/wp-content/uploads/2020/04/MADRIGAL-600.jpg",
+    cover: "https://github.com/WilliamWTC/Extra-Time/blob/master/Music%20Player/songs/looking.jpg?raw=true",
   },
   {
-    path: '',
-    displayName: 'Ederlezi',
-    artist: 'Solomun',
-    cover: "https://m.media-amazon.com/images/I/616t0841uvL._SS500_.jpg",
+    path: 'https://github.com/WilliamWTC/Extra-Time/blob/master/Music%20Player/songs/Grown%20Simba.mp3?raw=true',
+    displayName: 'Grown Simba',
+    artist: 'J.Cole',
+    cover: "https://github.com/WilliamWTC/Extra-Time/blob/master/Music%20Player/songs/Simba.jpg?raw=true",
   },
 ];
 
