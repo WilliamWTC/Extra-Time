@@ -15,26 +15,26 @@ const background = document.getElementById("background");
 const songs = [
   {
     path: '',
-    displayName: 'True',
-    artist: 'Bounce',
+    displayName: 'Love Someone',
+    artist: 'Da Capo',
     cover: "https://images.genius.com/ee202c6f724ffd4cf61bd01a205eeb47.1000x1000x1.jpg",
   },
   {
     path: '',
-    displayName: 'Somebody Else',
-    artist: 'Cole',
+    displayName: 'Things Change',
+    artist: 'Omen ft J.Cole',
     cover: "https://pbs.twimg.com/media/D2NZH-2U4AAL9Xs.jpg",
   },
   {
     path: '',
-    displayName: 'Powerless',
-    artist: 'Kanye',
+    displayName: 'Room Service',
+    artist: 'Jenerik Soulz',
     cover: "https://images.genius.com/c5a58cdaab9f3199214f0e3c26abbd0e.1000x1000x1.jpg",
   },
   {
     path: '',
-    displayName: 'Seni Dert Etmeler',
-    artist: 'Madrigal',
+    displayName: 'Ngifunana Nawe',
+    artist: 'Dosline ft Nonto',
     cover: "https://www.radyomega.fm/wp-content/uploads/2020/04/MADRIGAL-600.jpg",
   },
   {
